@@ -2,8 +2,8 @@
 This module logging reqeust data(include post-body data) to json format.
 <br>And support dynamic load module
 
-Basically Apache is support access.log and can modify log format to json.
-<br>I just want to understand how Apache work.
+Basically Apache is support access.log but post-body data is not support to logging.
+<br>I just want to understand how Apache work and logging post-body data.
 <br>This module is not perfect because it was written for learning purposes.
 
 This module tested on Apache 2.2, 2.4 version.
